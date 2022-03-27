@@ -1,2 +1,2 @@
-# Earthquake_-Challenge-
+# Earthquake_Challenge 
 Module 13
