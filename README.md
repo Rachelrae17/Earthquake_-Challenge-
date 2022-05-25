@@ -16,6 +16,17 @@ There is a simple legend on the bottom right showing the color for earthquake ma
 Summary:
 This is a good project where we got to work with base layers and overlays.This project was created to show on a website earthquakes on a world map. There are three layers of the earthquakes, tectonic plates, major earthquakes. The world map is center with a latitude of 40.7 and Longitude -94.5. This project was intresting to create the map and the different view points from it where it is able to view the major earthquake layers to the variable on the maps, along with the earthquake data and the tectonic plates data. 
 
+
+ Deliverable 1- 
 ![DEL1-Tectonic](https://user-images.githubusercontent.com/95897182/170387292-0f30c61c-08d8-4ed1-bb98-e6a1f8c7c52a.png)
+
+
+Deliverable 2- 
+![DEL2-MajorEQ](https://user-images.githubusercontent.com/95897182/170387405-e6366fb7-3872-4835-8694-3d500665c073.png) 
+
+Deliverable 3- 
+
+
+
 
 
